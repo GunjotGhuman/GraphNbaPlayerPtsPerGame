@@ -2,5 +2,5 @@ An application written in Python that leverages an API client developed by Swar 
 
 Below is an example of a graph genereated when Lebron James is searched.
 
-![alt text](https://github.com/GunjotGhuman/GraphNbaPlayerPtsPerGame/blob/main/LebronJamesPTSG.png)
+![alt text](https://github.com/GunjotGhuman/GraphNbaPlayerPtsPerGame/blob/main/LebronJamesSample.png)
 
