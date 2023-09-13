@@ -33,7 +33,7 @@ def plotData(x, y, name):
     plt.show()
 
 if __name__ == '__main__':
-    player_name  = input("Please enter your name: ")
+    player_name  = input("Please enter valid nba player: ")
     x,y = findPlayerData(player_name)
     plotData(x,y, player_name)
 
