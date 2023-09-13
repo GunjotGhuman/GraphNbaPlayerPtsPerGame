@@ -1,2 +1,1 @@
-# GraphNbaPlayerPtsPerGame
-Python program that uses API client created by swar that feteches data from nba.com. This program can find the PTS/game of any player you search and displays them on a graph with the matplotlib library.
+An application written in Python that leverages an API client developed by Swar to retrieve data from nba.com. This software is capable of locating and showcasing a player's points per game (PTS/game) on a graph using the matplotlib library.
